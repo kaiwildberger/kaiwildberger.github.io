@@ -16,6 +16,7 @@ class Couplet {
 
 /// TODO
 // - backtrace doesn't work on non-unique species (Amanita muscaria) due to set flattening confusion
+// - make look better on mobile (larger?)
 
 function getKey() {
     fetch('./arora.json')

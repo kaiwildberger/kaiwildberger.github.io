@@ -33,11 +33,18 @@
     width:fit-content;
 }
 .couplet {
-    margin:2em 0em;
+    margin:1.5em 0em;
 }
+.couplet p, .couplet > div {
+    margin-left: 3em;
+    margin-top:0;
+    margin-bottom:0.5em;
+    text-indent: -3em;
+}
+
 #choices > .couplet {
-    margin:1em 0em;
+    /* margin:1em 0em; */
 }
-.couplet > p {
+/* .couplet > p {
     margin:0.5em 0em;
-}
+} */
