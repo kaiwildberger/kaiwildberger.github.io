@@ -1,0 +1,43 @@
+.header {
+    display:inline-block;
+}
+
+.gridcontainer {
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 1;
+}
+.gridcontainer > div {
+    border:1px solid black;
+    padding:1em;
+    margin-top:1em;
+    position:relative;
+}
+.gridcontainer > div::after {
+    position:absolute;
+    top:-1ex;
+    left:1em;
+    background-color: white;
+    padding: 0 6px;
+}
+#choices::after {
+    content:"Interactive Key";
+}
+#wholekey::after {
+    content:"Full Key";
+}
+#backtrace::after {
+    content:"Backtrace";
+}
+.choice {
+    cursor:default;
+    width:fit-content;
+}
+.couplet {
+    margin:2em 0em;
+}
+#choices > .couplet {
+    margin:1em 0em;
+}
+.couplet > p {
+    margin:0.5em 0em;
+}

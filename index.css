@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "hand-kw";
+    src: url(./hand-kw.ttf);
+}
+
+body {
+    font-family: "hand-kw";
+    letter-spacing: -0.05em;
+    font-size:2.5em;
+}
+
+a {
+    color:cornflowerblue;
+}
+
+h2 {
+    margin:24px 0px;
+}
+
+#header {
+    margin-bottom:1rem;
+}
+
+#nav {
+
+}
+
+ul {
+    margin:16px 0px;
+}
+
+#content > * {
+    width:80%;
+    /* border:1px solid black; */
+    padding:0.5rem;
+    text-align: left;
+}
+
+#bottomsettings {
+    /* position:absolute; */
+    bottom:1rem;
+}

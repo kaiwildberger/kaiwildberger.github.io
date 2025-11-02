@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <!-- https://markshep.com -->
+        <title>hello</title>
+        <link rel="stylesheet" href="./index.css"/>
+    </head>
+    <body>
+        <div align="center" id="header">
+            <h2>Kai's new website</h2>
+            <div id="nav">
+                <a href="./recipes/">Recipes</a>
+                <a href="./projects/">Projects</a>
+                <a href="./poetry/">Poetry</a>
+                <a href="/" onclick="event.target.innerText=atob('a2R1YnNraUBwbS5tZQ=='); event.target.href=atob('bWFpbHRvOmtkdWJza2lAcG0ubWU='); event.preventDefault(); event.target.onclick='';">Get in touch</a>
+            </div>
+        </div>
+        <div id="content" align="center">
+            <div>
+                <p>Hello! I am Kai, a literature major at UC Santa Cruz. I want the web to be uncluttered, accessible and free of nonconsensual monetization, but that's not working out. I sure can't convince Google or Facebook to change, but I can be one less developer portfolio created by for-profit chatbots and hydrated by Nextjs.
+                Here, I share my projects and recipes and poetry and cool links. If you like it, shoot me an email! I'd love to chat.</p>
+
+                <div>
+                    <h2>What am I reading?</h2>
+                    <div id="readinglist"></div>
+                </div>
+            </div>
+        </div>
+        <div id="bottomsettings">
+            <input type="checkbox" checked id="settings-cutefont">
+            <label for="settings-cutefont">Use handwriting font</label>
+        </div>
+        <script src="index.js" type="application/javascript"></script>
+    </body>
+</html>

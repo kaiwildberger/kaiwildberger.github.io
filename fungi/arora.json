@@ -1,0 +1,2045 @@
+{
+    "families": {
+        "1": {
+            "base": ["Gills deformed or contorted or branched to form large cavities, sometimes never exposed; spores not forcibly discharged, hence spore print not obtainable; found mostly in deserts and mountains", "Podaxales & Allies"],
+            "prime": ["Not as above; spores forcibly discharged, hence a spore print obtainable IF SPORES ARE BEING PRODUCED; gills exposed at maturity; common and widespread", 2],
+            "num": 1
+        },
+        "2": {
+            "base": ["Spore print white to buff, yellow, yellow-orange or lilac-tinged", 3],
+            "prime": ["Spore print some other color (pinkish, salmon, yellow-brown, brown, rusty-orange, rusty-brown, chocolate-brown, purplish, greenish, black, etc)", 10],
+            "num": 2
+        },
+        "3": {
+            "base": ["Universal veil enveloping young specimens and forming a volva at base of stalk when it ruptures and/or leaving numerous remnants (warts or flat patches) on cap", "Amanitaceae"],
+            "prime": ["Neither volva nor warts present (but cap and stalk may have scales and fibrils)", 4],
+            "num": 3
+        },
+        "4": {
+            "base": ["Gills typically free and veil present; veil usually forming an annulus ring on stalk, or if not then stalk typically scaly or slimy below the veil", 5],
+            "prime": ["Not as above; veil absent, or if present then gills normally attached to the stalk", 6],
+            "num": 4
+        },
+        "5": {
+            "base": ["Cap slimy or viscid when moist; stalk sometimes viscid also; gills tissue divergent (under the microscope); not common", "Amanitaceae"],
+            "prime": ["Cap dry or only slightly viscid when moist; stalk dry; gill tissue not divergent; common", "Lepiotaceae"],
+            "num": 5
+        },
+        "6": {
+            "base": ["Gills decurrent and foldlike (at least when young), ie gills thick, blunt, shallow, and usually forked with cross-veins", "see Cantharellaceae"],
+            "prime": ["Not as above; gills usually platelike or bladelike", 7],
+            "num": 6
+        },
+        "7": {
+            "base": ["Gills and/or flesh exuding a latex (milk or juice) when broken; stalk typically more than 3mm thick; spores with amyloid warts or ridges", "Russulaceae"],
+            "prime": ["Not as above", 8],
+            "num": 7
+        },
+        "8": {
+            "base": ["Fruiting body brittle and rather rigid, the stalk snapping open cleanly like a piece of chalk (ie without fibrous context); cap usually plane to depressed at maturity; stalk typically at least 3mm thick; veil absent; usually but not always terrestrial; cap and stalk tissue typically containing nexts of sphaerocysts; spores with amyloid warts or ridges", "Russulaceae"],
+            "prime": ["Not with above features", 9],
+            "num": 8
+        },
+        "9": {
+            "base": ["Gills soft and clean, with a waxy appearance or texture; cap often brightly colored; stalk more or less central; usually terrestrial; basidia long and narrow (at least six times as long as the spores); spores smooth", "Hygrophoraceae"],
+            "prime": ["Not as above; gills not normally waxy; stalk central to lateral or absent; on ground or wood", "'Tricholomataceae' (1986)"],
+            "num": 9
+        },
+        "10": {
+            "base": ["Spore print pinkish to flesh-colored, salmon, pinkish-cinnamon, or sordid reddish", 11],
+            "prime": ["Spore print some shade of orange, brown (including cinnamon-brown), green, purple, gray, or black", 16],
+            "num": 10
+        },
+        "11": {
+            "base": ["Universal veil present, usually forming a saclike volva at base of stalk", "Pluteaceae"],
+            "prime": ["Not as above; volva typically absent", 12],
+            "num": 11
+        },
+        "12": {
+            "base": ["Gills typically free at maturity; growing on wood (but wood sometimes buried!) or sawdust or sometimes in lignin-rich humus; spores NOT angular", "Pluteaceae"],
+            "prime": ["Not as above", 13],
+            "num": 12
+        },
+        "13": {
+            "base": ["Odor strong (fishy or like cucumber) and stalk velvety or arising from an underground, often hollow 'tuber' or found on wood and fruiting body pinkish to yellow-orange with a reticulate (veined) cap surface; spores NOT angular; not common", "'Tricholomataceae' (1986)"],
+            "prime": ["Not as above; common", 14],
+            "num": 13
+        },
+        "14": {
+            "base": ["Spore print pale pinkish, pinkish-buff, or pinkish-cream; gills sometimes purple or purple-tinged when fresh; spores NOT angular", "'Tricholomataceae' (1986)"],
+            "prime": ["Spore print usually deeper in color (flesh-colored to sordid reddish, salmon, etc); gills not often purple; spores usually angular in end and/or side view", 15],
+            "num": 14
+        },
+        "15": {
+            "base": ["Usually growing in clusters; flesh fragile; spores NOT angular; not common, at least in the western states", "Coprinaceae"],
+            "prime": ["Not as above; spores typically angular in end and/or side view; very common and widely distributed", "Entolomataceae"],
+            "num": 15
+        },
+        "16": {
+            "base": ["Spore print greenish to grayish-olive", 17],
+            "prime": ["Not as above", 19],
+            "num": 16
+        },
+        "17": {
+            "base": ["Gills adnate to decurrent", "Gomphidiaceae"],
+            "prime": ["Gills free or only slightly attached", 18],
+            "num": 17
+        },
+        "18": {
+            "base": ["Gills blood-red to reddish to dark brown", "Agaricaceae"],
+            "prime": ["Gills white to dull greenish or grayish", "Lepiotaceae"],
+            "num": 18
+        },
+        "19": {
+            "base": ["Spore print purple-brown to purple-gray, purple-black, smoky-gray, black, chocolate-brown, or deep brown", 20],
+            "prime": ["Spore print rusty-orange to rusty-brown, cinnamon-brown, yellow-brown, dull brown, bright brown, cigar-brown, etc (but may appear darker in heavy deposits!)", 26],
+            "num": 19
+        },
+        "20": {
+            "base": ["Gills usually decurrent (but sometimes adnate); spore print smoky-olive to smoky-gray to black; associated with conifers", "Gomphidiaceae"],
+            "prime": ["Not as above; gills free to adnexed, adnate or occasionally decurrent", 21],
+            "num": 20
+        },
+        "21": {
+            "base": ["Gills and/or cap auto-digesting (ie turning into inky black mass) at maturity; spore print black", "Coprinaceae"],
+            "prime": ["Not as above", 22],
+            "num": 21
+        },
+        "22": {
+            "base": ["Veil present, usually forming an annulus ring on stalk; gills free or nearly free at maturity, whitish to pinkish when young but becoming chocolate-brown or darker in age; cap NOT deeply striate; spore print chocolate-brown", "Agaricaceae"],
+            "prime": ["Not as above", 23],
+            "num": 22
+        },
+        "23": {
+            "base": ["Cap brightly colored (yellow, gre, orange, red, etc)", "Strophariaceae"],
+            "prime": ["Cap dull (some shade of brown, buff, gray, white, etc)", 24],
+            "num": 23
+        },
+        "24": {
+            "base": ["Gills decurrent; cap margin inrolled when young; spore print reddish-brown or cocoa-brown", "Paxillaceae"],
+            "prime": ["Not as above", 25],
+            "num": 24
+        },
+        "25": {
+            "base": ["Cap usually viscid when moist (but may dry out!!); fruiting body fragile or not fragile; cap cuticle typically filamentous (under microscope)", "Strophariaceae"],
+            "prime": ["Cap usually not viscid; fruiting body quite fragile; cap cuticle typically cellular (p.19)", "Coprinaceae"],
+            "num": 25
+        },
+        "26": {
+            "base": ["Growing on other mushrooms", "'Tricholomataceae' (1986)"],
+            "prime": ["Not as above", 27],
+            "num": 26
+        },
+        "27": {
+            "base": ["Stalk absent or rudimentary; usually growing shelflike on wood", 28],
+            "prime": ["Stalk present; on wood or ground", 30],
+            "num": 27
+        },
+        "28": {
+            "base": ["Fruiting body very tough, leathery or corky", "Polyporaceae & Allies"],
+            "prime": ["Not as above; fruiting body fleshy", 29],
+            "num": 28
+        },
+        "29": {
+            "base": ["Gills forked or with cross-veins or even pores near base of cap", "Paxillaceae"],
+            "prime": ["Not as above", "Cortinariaceae"],
+            "num": 29
+        },
+        "30": {
+            "base": ["Fruiting body small, fragile, often withering quickly; cap usually oval to conical or bell-shaped; usually growing in grass, dung, or gardens; cap cuticle typically cellular (p.19)", "Bolbitiaceae"],
+            "prime": ["Not with above features", 31],
+            "num": 30
+        },
+        "31": {
+            "base": ["Gills typically decurrent, often forked (or even forming pores near stalk) and often peelig easily from cap; margin of caop usually inrolled when young; veil absent; spore print yellowish ot brown; stalk fleshy", "Paxillaceae"],
+            "prime": ["Not as above; gills occasionally decurrent but usually not; veil present or absent; spore print variously colored (rusty-orange, rusty-brown, dull brown, etc); very common", "Cortinariaceae"],
+            "num": 31
+        }
+    },
+    "russula": {
+        "1": {
+            "base": ["Fruiting body medium-sized to very large, hard (especially the stalk); cap white to brown, black, or grayish (never brightly colored); gills typically adnate to decurrent and usually alternating long and short; cap cuticle (skin) NOT peeling easily, margin NOT striate", 2],
+            "prime": ["Not with above combination of characteristics", 10],
+            "num": 1
+        },
+        "2": {
+            "base": ["Fruiting body basically white (but often with brown to yellowish stains); flesh and stalk surface NOT staining when bruised or cut", 3],
+            "prime": ["Flesh and stalk surface changing color when bruised (within 10 minutes) and/or fruiting body not white", 4],
+            "num": 2
+        },
+        "3": {
+            "base": ["Cap 5-10cm broad; taste very acrid; gills and stalk never blue-green", "Russula cascadensis"],
+            "prime": ["Cap 7-20cm or more broad; taste mild to slightly acrid, or if distinctly acrid then gills and/or stalk apex usually tinged blue-green or green", "Russula brevipes & others"],
+            "num": 3
+        },
+        "4": {
+            "base": ["Fruiting body turning dark grey to black DIRECTLY when bruised (within 5-10m), without an intermediate reddish phase; fruiting body blackening in age", "Russula albonigra"],
+            "prime": ["Not as above; if staining black, then with a preliminary reddish phase", 5],
+            "num": 4
+        },
+        "5": {
+            "base": ["Flesh and stalk surface distinctly staining reddish to orange when scratched or bruised (within 5m), then eventually darkening to dark gray, dark brownish-gray or black", 6],
+            "prime": ["Not as above (but may stain reddish WITHOUT blackening afterward or may stain smoky-brown DIRECTLY)", 8],
+            "num": 5
+        },
+        "6": {
+            "base": ["Gills thick and widely spaced", "Russula nigricans"],
+            "prime": ["Not as above", 7],
+            "num": 6
+        },
+        "7": {
+            "base": ["Cap viscid when moist; taste usually acrid", "Russula densifolia"],
+            "prime": ["Cap not viscid; taste typically mild", "Russula dissimulans"],
+            "num": 7
+        },
+        "8": {
+            "base": ["Gills usually with sordid reddish stains, often entirely reddish in old age; fruiting body NOT blackening; associated with oak in California and southern US", "Russula subnigricans"],
+            "prime": ["Not as above", 9],
+            "num": 8
+        },
+        "9": {
+            "base": ["Flesh typically staining faintly reddish when cut (within 20m), and then eventually pale smoky-brown (or at times without reddish phase)", "Russula adusta"],
+            "prime": ["Not as above", 10],
+            "num": 9
+        },
+        "10": {
+            "base": ["Fruiting body very firm and stalk hard; cap whitish becoming ochre, rusty-brown, or reddish-brown, margin NOT striate; all parts bruising or discoloring ochraceous to cinnamon-brown; odor often unpleasant in age, never sweet; spore print white; common in Eastern NA", "Russula compacta"],
+            "prime": ["Not as above", 11],
+            "num": 10
+        },
+        "11": {
+            "base": ["Odor heavy and sweet (like maraschino cherries or benzaldehyde), but in age often becoming fetid; cap medium-sized to large (5-15cm broad), yellow-brown to straw-color, dull ochre, or yellow-orange", "Russula fragrantissima group"],
+            "prime": ["Not as above", 12],
+            "num": 11
+        },
+        "12": {
+            "base": ["Cap 5-12cm broad, typically dark red with a nearly blackish center; taste usually acrid but sometimes mild; spore print whitish; common under hardwoods in eastern NA", "Russula atropurpurea"],
+            "prime": ["Not as above", 13],
+            "num": 12
+        },
+        "13": {
+            "base": ["Flesh and stalk surface staining grey to ashy or black (sometimes slowly and sometimes with an intermediate reddish phase", 14],
+            "prime": ["Not as above", 17],
+            "num": 13
+        },
+        "14": {
+            "base": ["Cap yellow to ochre", 15],
+            "prime": ["Cap orange to red, coppery, purple-red, etc (sometimes mixed with yellow)", 16],
+            "num": 14
+        },
+        "15": {
+            "base": ["Taste mild", "Russula claroflava"],
+            "prime": ["Taste acrid", "Russula ochroleuca"],
+            "num": 15
+        },
+        "16": {
+            "base": ["Cap red to orange or coppery-brown; flesh bruising gray directly", "Russula decolorans"],
+            "prime": ["Cap purplish, greenish, brownish, etc. (often a mixture of colors); flesh usually turning reddish before graying", "Russula occidentalis & others"],
+            "num": 16
+        },
+        "17": {
+            "base": ["Cap bright yellow to golden-yellow; mature gills yellowish", "Russula lutea"],
+            "prime": ["Not as above", 18],
+            "num": 17
+        },
+        "18": {
+            "base": ["Cap white or whitish to yellowish-white or pale yellow", 19],
+            "prime": ["Cap some other color (including yellow-brown) when fresh, but may fade to whitish in age", 23],
+            "num": 18
+        },
+        "19": {
+            "base": ["Cap cuticle (skin) thick and rubbery", "Russula crassotunicata"],
+            "prime": ["Not as above", 20],
+            "num": 19
+        },
+        "20": {
+            "base": ["Spore print and gills white or whitish", 21],
+            "prime": ["Spore print and mature gills yellowish", 22],
+            "num": 20
+        },
+        "21": {
+            "base": ["Cap pale yellow to yellowish-white, viscid when moist, the margin usually striage in age; taste acrid; usually scattered to gregarious", "Russula cremoricolor and others"],
+            "prime": ["Cap dull white or tinged buff or pink at center, often dirty, viscid or dry; taste mild or acrid; usually occurring in small numbers", "Russula albidula group"],
+            "num": 21
+        },
+        "22": {
+            "base": ["Stalk typically staining yellow and then brown when scratched; odor fishy in age", "Russula sp. unidentified (see R. xerampelina)"],
+            "prime": ["Not as above", "Russula maculata group"],
+            "num": 22
+        },
+        "23": {
+            "base": ["Taste of flesh AND/OR gills distinctly acrid (taste both!)", 24],
+            "prime": ["Taste mild or nearly so", 32],
+            "num": 23
+        },
+        "24": {
+            "base": ["Stalk white (but sometimes with stains or discolorations, especially at base)", 25],
+            "prime": ["Stalk red or flushed pink to rose", 31],
+            "num": 24
+        },
+        "25": {
+            "base": ["Cap yellow-brown to dull straw-color, hazel-brown, grayish-brown, or even darker at center; margin striate and with small bumps, at least in age; odor usually rather unpleasant; very common", "Russula sororia group"],
+            "prime": ["Not as above", 26],
+            "num": 25
+        },
+        "26": {
+            "base": ["Spore print and gills white or whitish", 27],
+            "prime": ["Spore print yellow to ochre; gills yellowish at least in age", "Russula alutacea & R. maculata group (JAR)"],
+            "num": 26
+        },
+        "27": {
+            "base": ["Stalk and flesh often slowly staining orange or pink when bruised (sometimes with an intermediate yellowish phase); cap typically multicolored (usually yellowish at center and splotched with yellow, orange, or red towards margin", "Russula bicolor"],
+            "prime": ["Not as above", 28],
+            "num": 27
+        },
+        "28": {
+            "base": ["Cap red suffused with gray or brown; associated with western conifers and especially common in the Rocky Mountains", "Russula montana"],
+            "prime": ["Not as above (but cap may be bright red)", 29],
+            "num": 28
+        },
+        "29": {
+            "base": ["Cap bright red when fresh, but often fading to pink, orange, or sometimes even white", "Russula emetica group"],
+            "prime": ["Not as above; cap variously colored but not bright red", 30],
+            "num": 29
+        },
+        "30": {
+            "base": ["Many gills forked at quite a distance from the stalk; stalk firm, 1-3cm thick, cap 5-15cm broad", "Russula variata"],
+            "prime": ["Gills not forked, or forked only near stalk; stalk usually less than 1.5cm thick, often quite fragile; cap up to 7cm broad", "Russula fragilis & others"],
+            "num": 30
+        },
+        "31": {
+            "base": ["Stalk red to pink; cap dark red to bright red (but often fading in age)", "Russula rosacea"],
+            "prime": ["Cap pink, olive-gray, etc. or a mixture of these colors; stalk usually tinged rose or grayish-rose", "Russula gracilis group"],
+            "num": 31
+        },
+        "32": {
+            "base": ["Cap surface dry and soon areolate (cracked into scales/plaques), greenish to blue-gray or with buff, yellowish, or even brownish tones; common under hardwoods in eastern US", 33],
+            "prime": ["Not as above", 34],
+            "num": 32
+        },
+        "33": {
+            "base": ["Cap usually greenish or greenish-gray", "Russula virescens"],
+            "prime": ["Cap buff to yellowish or brownish, with green tones sometimes present also", "Russula crustosa & others"],
+            "num": 33
+        },
+        "34": {
+            "base": ["Cap predominantly greenish or grayish-green (sometimes mixed with other colors); stalk white or whitish (or sometimes brownish-stained, but never pink); odor NOT fishy in age; spore print white to creamy (pale yellow), NOT ochre or dark yellow", 35],
+            "prime": ["Not with above combination of characteristics; cap may have greenish tones, but typically the greenish tones not predominating", 38],
+            "num": 34
+        },
+        "35": {
+            "base": ["Spore print white; fruiting body often robust (stalk 1.5-3cm thick or more); stalk NOT staining salmon in ferrous sulfate", "Russula cyanoxantha"],
+            "prime": ["Spore print pale cream; stalk typically 0.7-2.5 cm thick, staining salmon in ferrous sulfate", 36],
+            "num": 35
+        },
+        "36": {
+            "base": ["Cap bluish-green to greenish, with a matte appearance", "Russula parazurea"],
+            "prime": ["Cap greenish to grayish, often with yellowish, rusty or brownish areas, and viscid when moist", 37],
+            "num": 36
+        },
+        "37": {
+            "base": ["Cap usually greenish; found with aspen, birch, oak and conifers", "Russula aeruginea"],
+            "prime": ["Cap often with other colors [than greenish]; found with oak and beech", "Russula grisea"],
+            "num": 37
+        },
+        "38": {
+            "base": ["Cap small to medium-sized (2-7cm broad); surface dry, reddish to purple, but overlaid with a fine whitish powder or velvety bloom", "Russula mariae"],
+            "prime": ["Not as above; cap lacking whitish bloom", 39],
+            "num": 38
+        },
+        "39": {
+            "base": ["Spore print and gills white or whitish", 40],
+            "prime": ["Spore print yellow to ochre; gills yellowish in age", 42],
+            "num": 39
+        },
+        "40": {
+            "base": ["Cap typically with purplish, pinkish-lilac, bluish, and/or yellow tones; fruiting body sometimes large; gills often slightly greasy to the touch; stalk NOT staining salmon in ferrous sulfate", "Russula cyanoxantha"],
+            "prime": ["Cap usually browner, grayer, redder, or more flesh-colored than above; fruiting body usually medium-sized; stalk staining salmon in ferrous sulfate", 41],
+            "num": 40
+        },
+        "41": {
+            "base": ["Predominant color of cap typically flesh-color or reddish; cuticle (skin) often wrinkled; found mainly in eastern NA", "Russula vesca"],
+            "prime": ["Predominant color of cap typically some shade of brown, olive-brown, gray, or gray-brown; widespread", "Russula brunneola"],
+            "num": 41
+        },
+        "42": {
+            "base": ["Stalk typically staining yellow when scratched, then slowly becoming brownish; stalk usually rose-colored or at least with a blush of pink, but white in some forms; fruiting body medium-sized to very large; odor shrimpy or fishy in old age", "Russula xerampelina"],
+            "prime": ["Not as above", 43],
+            "num": 42
+        },
+        "43": {
+            "base": ["Cap red to pink, orange, or whitish, or a mixture of these colors; associated with hardwoods, especially oak; stalk white", "Russula maculata group"],
+            "prime": ["Not as above", 44],
+            "num": 43
+        },
+        "44": {
+            "base": ["Cap 2-6cm broad, markedly fragile, variously colored but usually with at least some purple", "Russula placita group & others"],
+            "prime": ["Not as above; larger ad/or not markedly fragile", 45],
+            "num": 44
+        },
+        "45": {
+            "base": ["Cap large, firm, sometimes massive (up to 35cm broad!); stalk often tinged pinkish", "Russula olivacea"],
+            "prime": ["Not as above; mediums-sized to fairly large, but not massive; stalk usually white", 46],
+            "num": 45
+        },
+        "46": {
+            "base": ["Spores and mature gills creamy; found with hardwoods", "Russula grisea"],
+            "prime": ["Spores and mature gills yellow to ochre; found with hardwoods or conifers", 47],
+            "num": 46
+        },
+        "47": {
+            "base": ["Cap medium-sized (3-12cm broad), burgundy to livid red, purple, or rusty-red, or with a brownish center, or with reddish-buff tones; fruiting body quite firm", "Russula integra"],
+            "prime": ["Not as above; medium-sized to fairly large (cap 5-20cm broad) and often fragile in old age", "Russula alutacea group"],
+            "num": 47
+        }
+    },
+    "hygrophoraceae": {
+        "1": {
+            "base": ["Fruiting body whitisih except for yellow to golden-orange powder, flakes, or granules on the cap and/or stalk apex (but powder may smear in wet weather)", "Hygrophorus chrysodon"],
+            "prime": ["Not as above (if fruiting body white, then lacking yellow to golden-orange granules", 2],
+            "num": 1
+        },
+        "2": {
+            "base": ["Fruiting body white to creamy, buff, or pale yellow when fresh", 3],
+            "prime": ["Fruiting body at least partially darker or differently colored (including bright lemon-yellow)", 17],
+            "num": 2
+        },
+        "3": {
+            "base": ["Stalk viscid or slimy when moist, at least over lower portion", 4],
+            "prime": ["Stalk not viscid", 7],
+            "num": 3
+        },
+        "4": {
+            "base": ["Cap tinged buff to yellowish or pale yellow, at least at center; especially common under pine (but not restricted to it)", "Hygrophorus gliocyclus & others"],
+            "prime": ["Not as above", 5],
+            "num": 4
+        },
+        "5": {
+            "base": ["Stalk usually at least 1.5cm thick; cap fairly large (5-15cm broad)", "Hygrophorus ponderatus"],
+            "prime": ["Stalk usually (but not always) less than 1.5cm thick; cap medium-sized to fairly small", 6],
+            "num": 5
+        },
+        "6": {
+            "base": ["Cap conical when young, usually with a prominent umbo in age; gills NOT decurrent; found in eastern NA, rarely in California (mostly under cypress)", "Hygrophorus pura"],
+            "prime": ["Not as above; gills adnate to decurrent; widespread", "Hygrophorus eburneus"],
+            "num": 6
+        },
+        "7": {
+            "base": ["Cap NOT conical; stalk 1-7cm thick, or if thinner than cap viscid when moist and developing distinct yellow-brown to reddish-brown, peachy, salmon, or ochre tones in age", 8],
+            "prime": ["Not as above; stalk typically less than 1cm thick and/or cap distinctly conical", 10],
+            "num": 7
+        },
+        "8": {
+            "base": ["Stal often with an annulus ring or 'volva' that is easily obliterated; typically found under mountain conifers", "Hygrophorus subalpinus"],
+            "prime": ["Not as above; annulus or 'volva' absent", 9],
+            "num": 8
+        },
+        "9": {
+            "base": ["Fruiting body white or discoloring slightly yellowish or buff; associated mainly with oak, occasionally with conifers", "Hygrophorus sordidus & others"],
+            "prime": ["Either fruiting body discoloring more dramatically in age or else associated with conifers and possessing a densely scurfy stalk and apex", 74],
+            "num": 9
+        },
+        "10": {
+            "base": ["Growing in grass; stalk tough and pliant; cap often umbonate", "Marasmius oreades"],
+            "prime": ["Not as above", 11],
+            "num": 10
+        },
+        "11": {
+            "base": ["Odor sharp and cedarlike or fragrant", "Camarophyllus russocoriaceus"],
+            "prime": ["Odor mild or not distinctive (or merely fungal)", 12],
+            "num": 11
+        },
+        "12": {
+            "base": ["Cap conical when young and/or gills typically notched or adnexed or at times adnate; gill hyphae parallel", "Hygrocybe subaustraliga & Hygrocybe albinella"],
+            "prime": ["Cap not normally conical; gills typically adnate to decurrent; gill hyphae not parallel", 13],
+            "num": 12
+        },
+        "13": {
+            "base": ["Cap viscid when moist", 14],
+            "prime": ["Cap not viscid", 15],
+            "num": 13
+        },
+        "14": {
+            "base": ["Cap thin and often translucent-striate when moist, usually less than 3cm broad; found in many habitats; gill tissue interwoven", "Camarophyllus niveus"],
+            "prime": ["Not as above; found mainly under conifers; gill tissue divergent", "Hygrophorus piceae"],
+            "num": 14
+        },
+        "15": {
+            "base": ["Growing in groups or troops on pine needles; gills very widely spaced and usually with veins in between; cap broadly convex soon becoming plane or umbilicate", "Merasmius sp.(unidentified)"],
+            "prime": ["Not as above", 16],
+            "num": 15
+        },
+        "16": {
+            "base": ["Fruiting body often developing a slightly yellowish tinge in age; cap dry", "Camarophyllus virgineus"],
+            "prime": ["Not as above; cap sometimes slightly lubricous", "Camarophyllus borealis"],
+            "num": 16
+        },
+        "17": {
+            "base": ["Cap small (up to 6cm broad but usually less), dry, honey-colored or yellowish to orange or scarlet beneath a layer of small, gray to dark brwon or blackish fibrillose scales", 18],
+            "prime": ["Not as above; either cap viscid or larger or lacking dark scales or differently colored", 19],
+            "num": 17
+        },
+        "18": {
+            "base": ["Background of cap scarlet to orange when fresh", "Hygrocybe turunda"],
+            "prime": ["Background of cap buff to dull yellowish or honey-colored; found in eastern NA", "Hygrocybe caespitosa"],
+            "num": 18
+        },
+        "19": {
+            "base": ["Fruiting body staining gray to black when handled (often slowly); cap conical, at least when young; common", "Hygrocybe conica"],
+            "prime": ["Not as above; fruiting body not blackening when handled", 20],
+            "num": 19
+        },
+        "20": {
+            "base": ["Cap bright red, yellow, orange or at least when fresh (but may fade to whitish)", 21],
+            "prime": ["Cap some other color(including pink, salmon, vinaceous, purple-red, pale dull orange, etc)", 42],
+            "num": 20
+        },
+        "21": {
+            "base": ["Cap and lower portion of stalk viscid to slimy when moist; stalk typically 4mm thick or more and NOT hollow; gills adnate to decurrent; gill tissue divergent", 22],
+            "prime": ["Not as above; if both cap and stalk viscid, then stalk typically slender, hollow and fragile", 23],
+            "num": 21
+        },
+        "22": {
+            "base": ["Cap red to orange when young at least at center", "Hygrophorus speciosus"],
+            "prime": ["Cap at first dark brown to olive-brown to center, the brighter colors developing in age and the center often remaining brownish", "Hygrophorus hypothejus"],
+            "num": 22
+        },
+        "23": {
+            "base": ["Cap dark to bright red when fresh (but may fade in age or as it dries to orange or yellow)", 24],
+            "prime": ["Cap orange to yellow (sometimes fading to whitish), never bright red", 31],
+            "num": 23
+        },
+        "24": {
+            "base": ["Cap conical, up to 5cm broad, bright red and not usually fading, viscid when moist; stalk also red and usually viscid; found in eastern NA", "Hygrocybe ruber"],
+            "prime": ["Not as above", 25],
+            "num": 24
+        },
+        "25": {
+            "base": ["Cap AND stalk distinctly viscid to slimy when moist; cap usually small or minute", "Hygrocybe reai & others"],
+            "prime": ["Not as above", 26],
+            "num": 25
+        },
+        "26": {
+            "base": ["Cap distinctly conical when young and usually retaining a pointed umbo in age; stalk yellow", "Hygrocybe cuspidata"],
+            "prime": ["Not as above", 27],
+            "num": 26
+        },
+        "27": {
+            "base": ["Gills usually distinctly decurrent; cap typically small or minute (less than 4cm broad)", 40],
+            "prime": ["Not as above", 28],
+            "num": 27
+        },
+        "28": {
+            "base": ["Cap small (1-4cm), NOT viscid, red to scarlet when moist but fading drastically as it dries to orange or even yellow", "Hygrocybe miniata"],
+            "prime": ["Not as above (if cap not viscid, then cap not fading drastically or cap larger)", 29],
+            "num": 28
+        },
+        "29": {
+            "base": ["Stalk white (base may be colored)", "Hygrocybe laetissima"],
+            "prime": ["Stalk yellow to orange or red", 30],
+            "num": 29
+        },
+        "30": {
+            "base": ["Cap viscid when moist; stalk typically 1-2cm thick", "Hygrocybe punicea & others"],
+            "prime": ["Cap not viscid or only slightly viscid; stalk typically 3-8mm thick, usually red to reddish-orange with a yellow to orange base", "Hygrocybe coccinea & others"],
+            "num": 30
+        },
+        "31": {
+            "base": ["Cap and stalk slimy or very viscid when moist; cap generall 4cm broad or less", 32],
+            "prime": ["Not as above (cap may be slimy, but stalk dry to only slightly viscid)", 35],
+            "num": 31
+        },
+        "32": {
+            "base": ["Fruiting body showing pink, flesh-colored or greenish (rarely bluish) tones somewhere on fruiting body; gills not normally decurrent", "Hygrocybe psittacina"],
+            "prime": ["Not as above; fruiting body yellow to orange (but may show some white or have a lilac tinge)", 33],
+            "num": 32
+        },
+        "33": {
+            "base": ["Growing on rotting conifers", "Mycena lilacifolia"],
+            "prime": ["Not as above; usually growing on the ground", 34],
+            "num": 33
+        },
+        "34": {
+            "base": ["Gills typically decurrent AND cap usually depressed centrally", "Hygrocybe nitida"],
+            "prime": ["Not as above", "Hygrocybe chlorophana & others"],
+            "num": 34
+        },
+        "35": {
+            "base": ["Cap distinctly viscid or slimy when moist, 2-7cm broad or more when expanded; gills not decurrent", 36],
+            "prime": ["Cap not viscid, or if slightly viscid then less than 3cm broad or gills decurrent", 37],
+            "num": 35
+        },
+        "36": {
+            "base": ["Cap distinctly conical, at least when young", "Hygrocybe autoconica"],
+            "prime": ["Cap broadly convex to plane, not conical", "Hygrocybe flavescens & others"],
+            "num": 36
+        },
+        "37": {
+            "base": ["Gills brilliant orange to yellow-orange, retaining their color even after the cap fades; common in eastern NA, occasional in Pacific NW", "Hygrocybe marginata"],
+            "prime": ["Not as above; common and widespread", 38],
+            "num": 37
+        },
+        "38": {
+            "base": ["Gills usually not decurrent; cap red to orange-red when fresh and moist (but fading)", "Hygrocybe miiata & others"],
+            "prime": ["Not as above; gills usually decurrent", 39],
+            "num": 38
+        },
+        "39": {
+            "base": ["Found in humus; cap yellow to orange-yellow (never scarlet, red, or orange)", "Hygrocybe parvula & others"],
+            "prime": ["Not as above", 40],
+            "num": 39
+        },
+        "40": {
+            "base": ["Stalk usually quite long (4-10cm); found mainly in eastern NA on ground, in moss, or on rotten wood", "Hygrocybe cantharellus"],
+            "prime": ["Not as above; found on ground, or if in lichen, moss or wood, then stalk not so long", 41],
+            "num": 40
+        },
+        "41": {
+            "base": ["Typically found in humus or soil; cap red or scarlet when fresh", "Hygrocybe subminiata"],
+            "prime": ["Not as above; often found on wood, lichens, moss", "see Omphalina & Xeromphalina"],
+            "num": 41
+        },
+        "42": {
+            "base": ["Cap sharply conical when young, usually retaining a pointed umbo in age, coral-pink to pink, pinkish-orange or salmon; gills pink", "Hygrocybe calyptraeformis"],
+            "prime": ["Not as above", 43],
+            "num": 42
+        },
+        "43": {
+            "base": ["Entire stalk or at least the lower part distinctly viscid to slimy WHEN MOIST; cap also viscid", 44],
+            "prime": ["Stalk dry to slightly lubricous but not viscid; cap dry or viscid", 54],
+            "num": 43
+        },
+        "44": {
+            "base": ["Cap small; stalk slender (usually less than 6mm thick), hollow, NOT white; veil absent", 45],
+            "prime": ["Cap usually medium-sized to fairly large; stalk typically at least 5mm thick, sometimes white; veil present or absent", 47],
+            "num": 44
+        },
+        "45": {
+            "base": ["Cap blackish to dark brown or grayish", "Hygrocybe unguinosa"],
+            "prime": ["Not as above; cap brighter or lighter in color", 46],
+            "num": 45
+        },
+        "46": {
+            "base": ["Cap sometimes green or greenish-tinged; gills typically adnate", "Hygrocybe psittacina"],
+            "prime": ["Green shades absent; gills often decurrent", "Hygrocybe laeta"],
+            "num": 46
+        },
+        "47": {
+            "base": ["Cap dull yellowish becoming browner or grayer in age; stalk at least 1cm thick; gills white or developing greenish stains, but not yellow; found mainly under hardwoods in eastern NA", "Hygrophorus paludosus"],
+            "prime": ["Not as above", 48],
+            "num": 47
+        },
+        "48": {
+            "base": ["Cap (or center of cap) chestnut-brown to cinnamon-brown, reddish-brown, pinkish-tan, salmon, or yellow-brown", 49],
+            "prime": ["Cap olive-brown to grayish-brown, gray, blackish, etc", 51],
+            "num": 48
+        },
+        "49": {
+            "base": ["Cap and gills rufous to rusty-orange, apricot, or salmon-buff; growing under oaks in eastern NA", "Hygrophorus subsalmonius"],
+            "prime": ["Not as above", 50],
+            "num": 49
+        },
+        "50": {
+            "base": ["Odor fragrant, like almond extract", "Hygrophorus variicolor"],
+            "prime": ["Odor more or less mild", "Hygrophorus laurae & others"],
+            "num": 50
+        },
+        "51": {
+            "base": ["Lower portion of stalk sheathedw with gray to brown, olive-brown, or blackish fibrils or scales, or granules; cap, gills, or stalk NOT yellow", "Hygrophorus olivaceoalbus & others"],
+            "prime": ["Not as above", 52],
+            "num": 51
+        },
+        "52": {
+            "base": ["Gills creamy to yellow or orange; cap and stalk often exhibiting some yellow or orange tones", "Hygrophorus hypothejus"],
+            "prime": ["Yellow and orange tones absent", 53],
+            "num": 52
+        },
+        "53": {
+            "base": ["Cap evenly blackish to deep olive-brown when young; found mainly in eastern NA", "Hygrophorus fuligineus"],
+            "prime": ["Cap paler when young or with a paler margin; widespread", "Hygrophorus fuscoalbus & others"],
+            "num": 53
+        },
+        "54": {
+            "base": ["Gills persistently bright orange to yellow-orange, even after cap fades; cap 1-5cm broad, stalk less than 6mm thick", "Hygrocybe marginata"],
+            "prime": ["Not as above", 55],
+            "num": 54
+        },
+        "55": {
+            "base": ["Cap green (citrine-green), at least when mature", "Hygrocybe virescens"],
+            "prime": ["Not as above", 56],
+            "num": 55
+        },
+        "56": {
+            "base": ["Cap gray to grayish-brown, dark grayish-brown, olive, deep olive-brown, blackish or umber; gills and cap lacking violet or blue tones", 57],
+            "prime": ["Cap differently colored (tan, reddish-brown, vinaceous, etc), or if colored as above then cap or gills with a violet, lilac, or bluish tinge when fresh", 63],
+            "num": 56
+        },
+        "57": {
+            "base": ["Cap conical or with a pointed umbo, dull or dark gray", "Hygrocybe acuta (see Camarophyllus recurvatus)"],
+            "prime": ["Not as above", 58],
+            "num": 57
+        },
+        "58": {
+            "base": ["Odor fragrant (like almond extract), but sometimes faint", "Hygrophorus agathosmus & others"],
+            "prime": ["Odor mild or not as above", 59],
+            "num": 58
+        },
+        "59": {
+            "base": ["Base of stalk usually pale pinkish to pinkish-orange (especially interior)", "see Tricholoma saponaceum"],
+            "prime": ["Not as above", 60],
+            "num": 59
+        },
+        "60": {
+            "base": ["Stalk sheathed by grayish to dark grayish-brown fibrils, scales, or granules", "Hygrophorus inocybiformis"],
+            "prime": ["Not as above", 61],
+            "num": 60
+        },
+        "61": {
+            "base": ["Fruiting body rather small (cap typically less than 5cm broad, stalk typically less than 1cm thick and sometimes hollow)", "Camarophyllus recurvatus & others"],
+            "prime": ["Not as above; fruiting body medium-sized; stalk usually 1cm thick or more", 62],
+            "num": 61
+        },
+        "62": {
+            "base": ["Cap viscid to slimy when moist; gills white or pink", "Hygrophorus calophyllus"],
+            "prime": ["Cap viscid or dry, often appearing streaked; gills white or gray", "Hygrophorus camarophyllus & others"],
+            "num": 62
+        },
+        "63": {
+            "base": ["Stalk rooting deeply or with a 'taproot' encased by grayish-brown volva-like material; cap white becoming pinkish to vinaceous-red; gills whilte; known only from southern California under oak; solitary or clustered", "Hygrophorus marianae"],
+            "prime": ["Not as above; widespread and common", 64],
+            "num": 63
+        },
+        "64": {
+            "base": ["Gills (or entire fruiting body) soon streaked or stained coral-red to vinaceous, pinkish-red, or purple-red (especially in age), sometimes also with yellow stains", 65],
+            "prime": ["Not as above (but gills may be naturally pinkish)", 68],
+            "num": 64
+        },
+        "65": {
+            "base": ["Associated with hardwoods (mainly oak and tanoak)", "Hygrophorus russula"],
+            "prime": ["Associated with conifers (mainly pine and spruce)", 66],
+            "num": 65
+        },
+        "66": {
+            "base": ["Cap reddish at first but staining yellow and becoming pale to bright yellow in age; taste bitter; especially common in the Rockies", "Hygrophorus amarus (see H. purpurascens)"],
+            "prime": ["Not as above (but fruiting body may yellow somehwat); widespread (including Rockies)", 67],
+            "num": 66
+        },
+        "67": {
+            "base": ["Fibrillose veil present, at least when young", "Hygrophorus purpurascens"],
+            "prime": ["Veil absent", "Hygrophorus erubescens & H. capreolarius (see H. purpurascens)"],
+            "num": 67
+        },
+        "68": {
+            "base": ["Gills lilac or violet or pinkish to dingy flesh-colored, attached and sometimes slightly decurrent but not DEEPLY decurrent; stalk tough and fibrous, pliant, often fibrillose; cap often minutely scaly or scurfy, NOT viscid; spores usually spiny", "see Laccaria"],
+            "prime": ["Not as above; spores smooth", 69],
+            "num": 68
+        },
+        "69": {
+            "base": ["Gills and/or cap with a violet, purple, or bluish tinge when fresh", "Camarophyllus subviolaceus & others"],
+            "prime": ["Not as above", 70],
+            "num": 69
+        },
+        "70": {
+            "base": ["Gills brown to vinaceous-brown, adnate to decurrent; cap some shade of brown when moist, fading as it dries; found with hardwoods in eastern NA", "Hygrophorus kauffmanii"],
+            "prime": ["Not as above; gills paler", 71],
+            "num": 70
+        },
+        "71": {
+            "base": ["Growing in grass; cap buff to tan, often umbonate; gills whitish; stalk thin, tough, pliant", "see Marasmius oreades"],
+            "prime": ["Not as above", 72],
+            "num": 71
+        },
+        "72": {
+            "base": ["Cap 4.5cm broad or less, translucent-striate when moist", 73],
+            "prime": ["Not as above; cap typically opaque", 74],
+            "num": 72
+        },
+        "73": {
+            "base": ["Stalk 4-7mm thick; cap vinaceous-brown to pinkish-gray or buff, slightly viscid when moist; gills pinkish-gray or paler, distinctly decurrent; terrestrial", "Camarophyllus colemannianus"],
+            "prime": ["Not as above; growing on ground or wood", "see Tricholomataceae"],
+            "num": 73
+        },
+        "74": {
+            "base": ["Stalk 1-3cm thick, the apex distinctly scurfy (punctate); cap 5-20cm broad, pale tan to pinkish, flesh-colored, pinkish-orange, or occasionally whitish; gills usually tinged pink (but sometimes whitish); cap viscid when moist, the margin inrolled until maturity; odor NOT like almond extract; associated with conifers (especially spruce)", "Hygrophorus pudorinus"],
+            "prime": ["Not with above combination of characteristics", 75],
+            "num": 74
+        },
+        "75": {
+            "base": ["Gills distinctly paler than center of cap (white to creamy or pale yellow)", 76],
+            "prime": ["Gills colored like the cap or slightly paler or darker (pinkish to salmon, etc)", 79],
+            "num": 75
+        },
+        "76": {
+            "base": ["Odor faintly fragrant (like almond extract) to strongly aromatic", 77],
+            "prime": ["Not as above; odor usually mild or somewhat potato-like", 78],
+            "num": 76
+        },
+        "77": {
+            "base": ["Odor like almond extract", "Hygrophorus bakerensis & others"],
+            "prime": ["Odor strongly aromatic (but not as above)", "Hygrophorus pacificus (see H. bakerensis)"],
+            "num": 77
+        },
+        "78": {
+            "base": ["Cap pink or rose (but may fade!), stalk lacking sordid yellowish patches below; found under mountain conifers, often near melting snow", "Hygrophorus goetzii"],
+            "prime": ["Not with above features", "Hygrophorus roseibrunneus"],
+            "num": 78
+        },
+        "79": {
+            "base": ["Odor sickeningly sweet; fruiting body pinkish-buff to pinkish-cinnamon; cap not viscid", "Camarophyllus graveolens"],
+            "prime": ["Not as above", 80],
+            "num": 79
+        },
+        "80": {
+            "base": ["Cap whitish to buff, sometimes with darker spots or zones; odor often faintly fruity (if kept in a closd space); gills pinkish-cinnamon to salmon or ochre-salmon; associated with conifers (but not redwood); gill hyphae divergent", "Hygrophorus saxatilis"],
+            "prime": ["Not with above features", 81],
+            "num": 80
+        },
+        "81": {
+            "base": ["Cap whitish when young", "Hygrophorus albicastaneus & others"],
+            "prime": ["Cap not white when young (but may be quite pale in age or after fading)", 82],
+            "num": 81
+        },
+        "82": {
+            "base": ["Gills adnexed to adnate or slightly decurrent; stalk 1-4cm thick, cap 5-13cm broad; odor mild or radish- to cucumberlike; gill hyphae divergent; usually associated with oak", "Hygrophorus nemoreus"],
+            "prime": ["Not as above; gills usually decurrent", "Camarophyllus pratensis"],
+            "num": 82
+        }
+    },
+    "amanitaceae": {
+        "1": {
+            "base": ["Volva present at base of stalk as a sack, fre collar, or series of concentric rings", "Amanita"],
+            "prime": ["Volva absent or indistinct", 2],
+            "num": 1
+        },
+        "2": {
+            "base": ["Cap usually viscid or slimy when moist, without warts or veil material; stalk sometimes slimy also", "Limacella"],
+            "prime": ["Cap usually wit warts or universal veil material, often dry or slightly viscid but not usually slimy; stalk never slimy", "Amanita"],
+            "num": 2
+        }
+    },
+    "amanita": {
+        "1": {
+            "base": ["Volva saclike (ie forming a true sack that sheathes the base of the stalk); cap usually bald or with a cottony or membranous patch of universal veil tissue or occasionally with several patches or non-friable warts", 2],
+            "prime": ["Volva collarlike (ie intergrown with base of stalk but with a free rim), scaly, warty, powdery, or indistinct but NOT saclike; cap often with many small pieces of universal veil tissue warts, powder, etc., occasionally with larger pieces", 15],
+            "num": 1
+        },
+        "2": {
+            "base": ["Volva tough, thick, large; cap and/or stalk often shaggy, fibrillose, or with cottony patches of veil tissue; cap white or tinged brown (especially at center), often bruising brown or reddish, margin often striate in age; stalk similarly colored; annulus ring absent; spores oblong or elliptical, amyloid; farily common in eastern NA, rare in West", "Amanita volvata"],
+            "prime": ["Not with above features", 3],
+            "num": 2
+        },
+        "3": {
+            "base": ["Margin of cap distinctly striate (at least when mature); spores NOT amyloid", 4],
+            "prime": ["Margin of cap not striate or only faintly so (occasionally striate in age); spores amyloid", 12],
+            "num": 3
+        },
+        "4": {
+            "base": ["Partial veil present when young, usually (but not always!) forming an annulus ring on stalk", 5],
+            "prime": ["Partial veil and annulus ring absent or rudimentary (but stalk sometimes scaly)", 8],
+            "num": 4
+        },
+        "5": {
+            "base": ["Gils and stalk yellow to yellow-orange; cap bright red to orange (but may fade to yellow or paler in age or sunlight", "Amanita caesarea group & others"],
+            "prime": ["Not as above; gills and stalk typically white to creamy or very pale yellow", 6],
+            "num": 5
+        },
+        "6": {
+            "base": ["Volva often small and inconspicuous; cap brown to gray or sometimes nearly white; growing in mixed woods and under hardwoods in eastern NA", "Amanita spreta"],
+            "prime": ["Not as above; known only from western NA", 7],
+            "num": 6
+        },
+        "7": {
+            "base": ["Cap brown to yellowish or whitish, but if brown then usually with a yellow margin; partial veil typically (but not always!) forming a prominent skirtlike annulus on stalk", "Amanita calyptrata"],
+            "prime": ["Cap variously colored, but the margin not yellow; annulus ring usually pressed closely to the stalk or poorly defined", 48],
+            "num": 7
+        },
+        "8": {
+            "base": ["Cap dark brown to gray or grayish-brown", 9],
+            "prime": ["Cap white to pale tan, beige, orangish, pinkish, orange-brown, or reddish-brown", 10],
+            "num": 8
+        },
+        "9": {
+            "base": ["Fruiting body medium-sized to large; cap dary gray to dark brown when young, often paler in age and often developing a darker band near inner edge of striations; gill edges usually brown; known only from teh West", "Amanita pachycolea"],
+            "prime": ["Fruiting body medium-sized to rather small and slender; cap usually gray, but sometimes grayish-brown or brown; gill edges not brown; widely distributed", 49],
+            "num": 9
+        },
+        "10": {
+            "base": ["Cap white with long striations; widespread but rare in West", "Amanita alba"],
+            "prime": ["Not as above; if cap white then with shorter striations and usually found near western oaks in winter and spring (or even summer); common", 11],
+            "num": 10
+        },
+        "11": {
+            "base": ["Cap pinkish-tan to orangish, beige, or paler", "Amanita velosa & others"],
+            "prime": ["Cap orange-brown to reddish-brown, tawny, etc; common in eastern NA, infrequent in West", "Amanita fulva"],
+            "num": 11
+        },
+        "12": {
+            "base": ["Cap greenish to yellow-green, brownish-olive, grayish-olive, or nearly white when young, often duller (dingy tan, etc) or with a metallic luster in age", "Amanita phalloides"],
+            "prime": ["Not as above; cap usually white or whitish when fresh (but may discolor by maturity)", 13],
+            "num": 12
+        },
+        "13": {
+            "base": ["Cap white, but discoloring pinkish, brownish, or yellowish (at least centrally) in age; associated with oak; found in California and the Southwest and Texas", "Amanita ocreata"],
+            "prime": ["Cap usually remaining white or found elsewhere", 14],
+            "num": 13
+        },
+        "14": {
+            "base": ["Cap white; partial veil usually forming a distinct annulus ring on stalk (which may disappear in age!); very common in eastern NA, also found in PNW", "Amanita virosa & others"],
+            "prime": ["Not as above; partial veil absent or evanescent; found in eastern NA", "Amanita peckiana & others"],
+            "num": 14
+        },
+        "15": {
+            "base": ["Universal veil remnants yellow to grayish-yellow (check cap for warts and base of stalk for volva); cap NOT whitish", 16],
+            "prime": ["Universal veil remnants not yellow; cap may or may not be whitish", 22],
+            "num": 15
+        },
+        "16": {
+            "base": ["Partial veil absent; gills yellow; found in eastern NA", "Amanita parcivolvata"],
+            "prime": ["Not as above", 17],
+            "num": 16
+        },
+        "17": {
+            "base": ["Cap bright red to orange-red (but may fade in age); stalk white", "Amanita muscaria"],
+            "prime": ["Cap orange to yellow-brown or dark brown; stalk white or yellow", 18],
+            "num": 17
+        },
+        "18": {
+            "base": ["Lower stalk sheathed with shaggy scales", "see Armillaria & Allies"],
+            "prime": ["Not as above", 19],
+            "num": 18
+        },
+        "19": {
+            "base": ["Cap salmon to salmon-pink when fresh; found in mountains of eastern US", "Amanita wellsii"],
+            "prime": ["Not as above", 20],
+            "num": 19
+        },
+        "20": {
+            "base": ["Base of stalk staining reddish in age or where bruised; found in eastern NA", "Amanita flavorubescens"],
+            "prime": ["Not with above features (if staining as above, then found in West)", 21],
+            "num": 20
+        },
+        "21": {
+            "base": ["Cap yellow to yellow-brown to dark brown; stalk usually white; common along the Pacific Coast", "Amanita aspera"],
+            "prime": ["Cap yellow-orange to yellow; stalk often colored similarly; fruiting body rather small; coimmon in eastern NA, rare in West", "Amanita flavoconia"],
+            "num": 21
+        },
+        "22": {
+            "base": ["Cap pale yellow-green to pale yellow to nearly whitish with thin grayish, whitish-buff, or pinkish to lavender-gray warts (which may wash off); cap margin NOT striate; stalk with an abrupt, soft, rounded bulb at base; spores amyloid; common in eastern NA, especially under hardwoods but also with conifers", "Amanita citrina"],
+            "prime": ["Not as above", 23],
+            "num": 22
+        },
+        "23": {
+            "base": ["Cap brown to olive-brown or paler; stalk lacking grayish patches, terminating in an abrupt basal bulb that is usually split or chiseled longitudinally; flesh usualy staining reddish-brown; spores amyloid; common in eastern NA (especially under hardwoods); also reported from PNW (but rare)", "Amanita brunnescens"],
+            "prime": ["Not as above", 24],
+            "num": 23
+        },
+        "24": {
+            "base": ["Cap brightly colored (red, orange, or yellow); partial veil present, usually forming an annulus ring on stalk", 25],
+            "prime": ["Not as above (cap may be sordid reddish or reddish-brown, pinkish-tan, etc)", 26],
+            "num": 24
+        },
+        "25": {
+            "base": ["Volva usually a series of concentric rings at apex of bulbous stalk base, but sometimes only a single ring or collar; cap medium-sized to large and bright red to orange, apricot, yellow-orange, or yellow (yellow rare form in coastal California but common in Sierra Nevada and most of eastern NA)", "Amanita muscaria"],
+            "prime": ["Volva usually a single collar at top of basal bulb or often indistinct, but sometimes consisting of several rings; cap small to medium-sized (occasionally large), usually pale yellow (but sometimes brighter), at times completely covered by veil material; widespread", "Amanita gemmata"],
+            "num": 25
+        },
+        "26": {
+            "base": ["Partial veil absent (check young speciments if possible); cap margin distinctly striate; spores not amyloid", 27],
+            "prime": ["Partial veil present, or if absent, then cap margin NOT striate; spores amyloid or not", 31],
+            "num": 26
+        },
+        "27": {
+            "base": ["Cap gray to grayish-brown, brown, or darker", 28],
+            "prime": ["Cap pale yellow, orange-buff, salmon, pinkish, tan, or nearly white", 30],
+            "num": 27
+        },
+        "28": {
+            "base": ["Cap powdery-mealy; volva if present also mealy", "Amanita farinosa"],
+            "prime": ["Not as above", 29],
+            "num": 28
+        },
+        "29": {
+            "base": ["Cap gray or sometimes grayish-brown, with or without warts; upper limb of volva usually well-developed (but falls off easily); common in California", "Amanita constricta"],
+            "prime": ["Cap gray to brown to dark brown to nearly black, usually with warts; upper limb of volva not well-developed; widespread but rare in California", "Amanita inaurata"],
+            "num": 29
+        },
+        "30": {
+            "base": ["Cap yellow to creamy whitish; volva usually collarlike (with free rim)", "Amanita gemmata"],
+            "prime": ["Cap orange-buff to pale pinkish-orange to pinkish-tan, beige, or sometimes whitish; volva not typically collarlike; often growing in the open (but near trees)", "Amanita velosa"],
+            "num": 30
+        },
+        "31": {
+            "base": ["Cap entirely brown when young, breaking up into large brown scales in age; flesh in stalk usually staining orange or saffron (and eventually reddish) when cut", "see Lepiota rachodes"],
+            "prime": ["Not as above", 32],
+            "num": 31
+        },
+        "32": {
+            "base": ["Cap with erect, often pyramidal brown warts which usually come off easily; stalk and/or underside of veil with similar warts; spores usually dextrinoid, NOT amyloid", "see Lepiota"],
+            "prime": ["Not with above features (but may have some of them); common", 33],
+            "num": 32
+        },
+        "33": {
+            "base": ["Some part of fruiting body usually with sordid reddish stains (especially the stalk); flesh SLOWLY staining dingy reddish when bruised or cut; maggot tunnels also reddish", "Amanita rubescens"],
+            "prime": ["Not as above", 34],
+            "num": 33
+        },
+        "34": {
+            "base": ["Fresh fruiting body white or whitish (but may age buff, yellowish, brownish, pinkish, etc)", 35],
+            "prime": ["Not as above; cap distinctly colored or with colored veil material even when young", 42],
+            "num": 34
+        },
+        "35": {
+            "base": ["Stalk terminating in a fairly conspicuous bulb, NOT typically with a rooting portion below the bulb", 35],
+            "prime": ["Stalk without bulb, or if with a bulb, then also with a tapered rooting base below the bulb", 40],
+            "num": 35
+        },
+        "36": {
+            "base": ["Volva typically present as a distinct free rim or series of concentric rings at apex of basal bulb; spores NOT amyloid", 37],
+            "prime": ["Not as above; spores amyloid", 38],
+            "num": 36
+        },
+        "37": {
+            "base": ["Volva typically consisting of a single tight-fitting collar around the bulb apex; cap often tinged yellowish or brownish at center; often rather slender", "Amanita cothurnata"],
+            "prime": ["Volva usually a series of concentric rings; cap white to grayish-white or tinged buff; not unusually slender", "Amanita muscaria"],
+            "num": 37
+        },
+        "38": {
+            "base": ["Cap surface with a rather soft and cottony universal veil tissue, lacking conspicuous warts; known only from western NA", "Amanita silvicola"],
+            "prime": ["Not as above (if cap cottony, then found elsewhere)", 39],
+            "num": 38
+        },
+        "39": {
+            "base": ["Cap usually with brown warts; stalk often rather stout (up to 8cm long); known only from California; associated with live oak", "Amanita sp. (unidentified); see A. rubescens"],
+            "prime": ["Not as above", 40],
+            "num": 39
+        },
+        "40": {
+            "base": ["Cap without warts or warts obscure; growing in sand", "Amanita baccata"],
+            "prime": ["Not as above; cap usually with distinct, well-developed warts", 41],
+            "num": 40
+        },
+        "41": {
+            "base": ["Cap covered with large, exaggerated warts; fairly common with oak and pine, known only from California", "Amanita magniverrucata"],
+            "prime": ["Found elsewhere, or if found in California then warts smaller and often concentrated at center of cap", "Amanita cokeri & many others ('Lepidella')"],
+            "num": 41
+        },
+        "42": {
+            "base": ["Stalk arising from a well-developed cylindrical to jug-shaped, sometimes hollow, underground 'tuber'; rare", "see Squamanita"],
+            "prime": ["Not as above (but stalk may root deeply or have bulbous base)", 43],
+            "num": 42
+        },
+        "43": {
+            "base": ["Cap yellow to creamy, the margin usually striate or tuberculate-striate", 45],
+            "prime": ["Not with above features", 44],
+            "num": 43
+        },
+        "44": {
+            "base": ["Volva indistinct, powdery, or scaly; cap margin not normally striate", 45],
+            "prime": ["Volva usually present as a free rim or collar on basal bulb and/or margin of cap striate in age", 47],
+            "num": 44
+        },
+        "45": {
+            "base": ["Found in California", 46],
+            "prime": ["Found in eastern NA (especially common in Southeast)", 50],
+            "num": 45
+        },
+        "46": {
+            "base": ["Usually found in open ground (pastures, etc); partial veil often disappearing; cap grayish-white to gray to brownish-gray; small", "Amanita sp. (unidentified)"],
+            "prime": ["Associated with oak; partial veil usually forming a persistent, prominent annulus ring; cap white to brownish", "Amanita sp. (unidentified); see A. rubescens"],
+            "num": 46
+        },
+        "47": {
+            "base": ["Warts gray and/or stalk gray or with grayish patches; spores amyloid", "Amanita porphyria"],
+            "prime": ["Stalk white; warts usually white or pallid; spores not amyloid", "Amanita pantherina"],
+            "num": 47
+        },
+        "48": {
+            "base": ["Cap brown", "Amanita calyptroides (see A. calyptrata)"],
+            "prime": ["Cap orangish to salmon, pinkish-tan, buff, or even whitish", "Amanita velosa"],
+            "num": 48
+        },
+        "49": {
+            "base": ["Lower part of volva tightly constricted around stalk, the upper part flaring outward", "Amanita constricta"],
+            "prime": ["Not as above; volva saclike", "Amanita vaginata"],
+            "num": 49
+        },
+        "50": {
+            "base": ["Cap pallid beneath a thin coating of pinkish-tan to brownish-orange universal veil material and often with several large chunky warts at center; found in woods in Southeast", "Amanita roseitincta"],
+            "prime": ["Not as above", 51],
+            "num": 50
+        },
+        "51": {
+            "base": ["Cap distinctly pinkish when fresh; usually found in open; southern", "Amanita salmonea"],
+            "prime": ["Not as above", 52],
+            "num": 51
+        },
+        "52": {
+            "base": ["Cap with concentrically arranged brown to grayish-brown universal veil remnants (scales); partial veil evanescent; known only from the Southeast", "Amanita hesleri"],
+            "prime": ["Not as above; cap usually grayish or with grayish warts", 53],
+            "num": 52
+        },
+        "53": {
+            "base": ["Cap pale brown to dark grayish-brown, with large grayish warts or patches; partial veil usually forming a distinct annulus ring on stalk", "Amanita spissa (see A. pantherina)"],
+            "prime": ["Not as above; cap grayish", "Amanita onusta & A. cinereoconica"],
+            "num": 53
+        }
+    },
+    "boletaceae p. 489": {
+        "1": {
+            "base": [],
+            "prime": [],
+            "num": 1
+        },
+        "2": {
+            "base": [],
+            "prime": [],
+            "num": 2
+        },
+        "3": {
+            "base": [],
+            "prime": [],
+            "num": 3
+        },
+        "4": {
+            "base": [],
+            "prime": [],
+            "num": 4
+        },
+        "5": {
+            "base": [],
+            "prime": [],
+            "num": 5
+        },
+        "6": {
+            "base": [],
+            "prime": [],
+            "num": 6
+        },
+        "7": {
+            "base": [],
+            "prime": [],
+            "num": 7
+        },
+        "8": {
+            "base": [],
+            "prime": [],
+            "num": 8
+        },
+        "9": {
+            "base": [],
+            "prime": [],
+            "num": 9
+        },
+        "10": {
+            "base": [],
+            "prime": [],
+            "num": 10
+        },
+        "11": {
+            "base": [],
+            "prime": [],
+            "num": 11
+        },
+        "12": {
+            "base": [],
+            "prime": [],
+            "num": 12
+        },
+        "13": {
+            "base": [],
+            "prime": [],
+            "num": 13
+        },
+        "14": {
+            "base": [],
+            "prime": [],
+            "num": 14
+        }
+    },
+    "suillus p.492": {
+        "1": {
+            "base": [],
+            "prime": [],
+            "num": 1
+        },
+        "2": {
+            "base": [],
+            "prime": [],
+            "num": 2
+        },
+        "3": {
+            "base": [],
+            "prime": [],
+            "num": 3
+        },
+        "4": {
+            "base": [],
+            "prime": [],
+            "num": 4
+        },
+        "5": {
+            "base": [],
+            "prime": [],
+            "num": 5
+        },
+        "6": {
+            "base": [],
+            "prime": [],
+            "num": 6
+        },
+        "7": {
+            "base": [],
+            "prime": [],
+            "num": 7
+        },
+        "8": {
+            "base": [],
+            "prime": [],
+            "num": 8
+        },
+        "9": {
+            "base": [],
+            "prime": [],
+            "num": 9
+        },
+        "10": {
+            "base": [],
+            "prime": [],
+            "num": 10
+        },
+        "11": {
+            "base": [],
+            "prime": [],
+            "num": 11
+        },
+        "12": {
+            "base": [],
+            "prime": [],
+            "num": 12
+        },
+        "13": {
+            "base": [],
+            "prime": [],
+            "num": 13
+        },
+        "14": {
+            "base": [],
+            "prime": [],
+            "num": 14
+        },
+        "15": {
+            "base": [],
+            "prime": [],
+            "num": 15
+        },
+        "16": {
+            "base": [],
+            "prime": [],
+            "num": 16
+        },
+        "17": {
+            "base": [],
+            "prime": [],
+            "num": 17
+        },
+        "18": {
+            "base": [],
+            "prime": [],
+            "num": 18
+        },
+        "19": {
+            "base": [],
+            "prime": [],
+            "num": 19
+        },
+        "20": {
+            "base": [],
+            "prime": [],
+            "num": 20
+        },
+        "21": {
+            "base": [],
+            "prime": [],
+            "num": 21
+        },
+        "22": {
+            "base": [],
+            "prime": [],
+            "num": 22
+        },
+        "23": {
+            "base": [],
+            "prime": [],
+            "num": 23
+        },
+        "24": {
+            "base": [],
+            "prime": [],
+            "num": 24
+        },
+        "25": {
+            "base": [],
+            "prime": [],
+            "num": 25
+        },
+        "26": {
+            "base": [],
+            "prime": [],
+            "num": 26
+        },
+        "27": {
+            "base": [],
+            "prime": [],
+            "num": 27
+        },
+        "28": {
+            "base": [],
+            "prime": [],
+            "num": 28
+        },
+        "29": {
+            "base": [],
+            "prime": [],
+            "num": 29
+        },
+        "30": {
+            "base": [],
+            "prime": [],
+            "num": 30
+        },
+        "31": {
+            "base": [],
+            "prime": [],
+            "num": 31
+        },
+        "32": {
+            "base": [],
+            "prime": [],
+            "num": 32
+        },
+        "33": {
+            "base": [],
+            "prime": [],
+            "num": 33
+        },
+        "34": {
+            "base": [],
+            "prime": [],
+            "num": 34
+        },
+        "35": {
+            "base": [],
+            "prime": [],
+            "num": 35
+        },
+        "36": {
+            "base": [],
+            "prime": [],
+            "num": 36
+        },
+        "37": {
+            "base": [],
+            "prime": [],
+            "num": 37
+        },
+        "38": {
+            "base": [],
+            "prime": [],
+            "num": 38
+        },
+        "39": {
+            "base": [],
+            "prime": [],
+            "num": 39
+        },
+        "40": {
+            "base": [],
+            "prime": [],
+            "num": 40
+        },
+        "41": {
+            "base": [],
+            "prime": [],
+            "num": 41
+        },
+        "42": {
+            "base": [],
+            "prime": [],
+            "num": 42
+        },
+        "43": {
+            "base": [],
+            "prime": [],
+            "num": 43
+        },
+        "44": {
+            "base": [],
+            "prime": [],
+            "num": 44
+        },
+        "45": {
+            "base": [],
+            "prime": [],
+            "num": 45
+        },
+        "46": {
+            "base": [],
+            "prime": [],
+            "num": 46
+        }
+    },
+    "boletus p.512": {
+        "1": {
+            "base": [],
+            "prime": [],
+            "num": 1
+        },
+        "2": {
+            "base": [],
+            "prime": [],
+            "num": 2
+        },
+        "3": {
+            "base": [],
+            "prime": [],
+            "num": 3
+        },
+        "4": {
+            "base": [],
+            "prime": [],
+            "num": 4
+        },
+        "5": {
+            "base": [],
+            "prime": [],
+            "num": 5
+        },
+        "6": {
+            "base": [],
+            "prime": [],
+            "num": 6
+        },
+        "7": {
+            "base": [],
+            "prime": [],
+            "num": 7
+        },
+        "8": {
+            "base": [],
+            "prime": [],
+            "num": 8
+        },
+        "9": {
+            "base": [],
+            "prime": [],
+            "num": 9
+        },
+        "10": {
+            "base": [],
+            "prime": [],
+            "num": 10
+        },
+        "11": {
+            "base": [],
+            "prime": [],
+            "num": 11
+        },
+        "12": {
+            "base": [],
+            "prime": [],
+            "num": 12
+        },
+        "13": {
+            "base": [],
+            "prime": [],
+            "num": 13
+        },
+        "14": {
+            "base": [],
+            "prime": [],
+            "num": 14
+        },
+        "15": {
+            "base": [],
+            "prime": [],
+            "num": 15
+        },
+        "16": {
+            "base": [],
+            "prime": [],
+            "num": 16
+        },
+        "17": {
+            "base": [],
+            "prime": [],
+            "num": 17
+        },
+        "18": {
+            "base": [],
+            "prime": [],
+            "num": 18
+        },
+        "19": {
+            "base": [],
+            "prime": [],
+            "num": 19
+        },
+        "20": {
+            "base": [],
+            "prime": [],
+            "num": 20
+        },
+        "21": {
+            "base": [],
+            "prime": [],
+            "num": 21
+        },
+        "22": {
+            "base": [],
+            "prime": [],
+            "num": 22
+        },
+        "23": {
+            "base": [],
+            "prime": [],
+            "num": 23
+        },
+        "24": {
+            "base": [],
+            "prime": [],
+            "num": 24
+        },
+        "25": {
+            "base": [],
+            "prime": [],
+            "num": 25
+        },
+        "26": {
+            "base": [],
+            "prime": [],
+            "num": 26
+        },
+        "27": {
+            "base": [],
+            "prime": [],
+            "num": 27
+        },
+        "28": {
+            "base": [],
+            "prime": [],
+            "num": 28
+        },
+        "29": {
+            "base": [],
+            "prime": [],
+            "num": 29
+        },
+        "30": {
+            "base": [],
+            "prime": [],
+            "num": 30
+        },
+        "31": {
+            "base": [],
+            "prime": [],
+            "num": 31
+        },
+        "32": {
+            "base": [],
+            "prime": [],
+            "num": 32
+        },
+        "33": {
+            "base": [],
+            "prime": [],
+            "num": 33
+        },
+        "34": {
+            "base": [],
+            "prime": [],
+            "num": 34
+        },
+        "35": {
+            "base": [],
+            "prime": [],
+            "num": 35
+        },
+        "36": {
+            "base": [],
+            "prime": [],
+            "num": 36
+        },
+        "37": {
+            "base": [],
+            "prime": [],
+            "num": 37
+        },
+        "38": {
+            "base": [],
+            "prime": [],
+            "num": 38
+        },
+        "39": {
+            "base": [],
+            "prime": [],
+            "num": 39
+        },
+        "40": {
+            "base": [],
+            "prime": [],
+            "num": 40
+        },
+        "41": {
+            "base": [],
+            "prime": [],
+            "num": 41
+        },
+        "42": {
+            "base": [],
+            "prime": [],
+            "num": 42
+        },
+        "43": {
+            "base": [],
+            "prime": [],
+            "num": 43
+        },
+        "44": {
+            "base": [],
+            "prime": [],
+            "num": 44
+        },
+        "45": {
+            "base": [],
+            "prime": [],
+            "num": 45
+        },
+        "46": {
+            "base": [],
+            "prime": [],
+            "num": 46
+        },
+        "47": {
+            "base": [],
+            "prime": [],
+            "num": 47
+        },
+        "48": {
+            "base": [],
+            "prime": [],
+            "num": 48
+        },
+        "49": {
+            "base": [],
+            "prime": [],
+            "num": 49
+        },
+        "50": {
+            "base": [],
+            "prime": [],
+            "num": 50
+        },
+        "51": {
+            "base": [],
+            "prime": [],
+            "num": 51
+        },
+        "52": {
+            "base": [],
+            "prime": [],
+            "num": 52
+        },
+        "53": {
+            "base": [],
+            "prime": [],
+            "num": 53
+        },
+        "54": {
+            "base": [],
+            "prime": [],
+            "num": 54
+        },
+        "55": {
+            "base": [],
+            "prime": [],
+            "num": 55
+        },
+        "56": {
+            "base": [],
+            "prime": [],
+            "num": 56
+        },
+        "57": {
+            "base": [],
+            "prime": [],
+            "num": 57
+        },
+        "58": {
+            "base": [],
+            "prime": [],
+            "num": 58
+        },
+        "59": {
+            "base": [],
+            "prime": [],
+            "num": 59
+        },
+        "60": {
+            "base": [],
+            "prime": [],
+            "num": 60
+        },
+        "61": {
+            "base": [],
+            "prime": [],
+            "num": 61
+        },
+        "62": {
+            "base": [],
+            "prime": [],
+            "num": 62
+        },
+        "63": {
+            "base": [],
+            "prime": [],
+            "num": 63
+        },
+        "64": {
+            "base": [],
+            "prime": [],
+            "num": 64
+        },
+        "65": {
+            "base": [],
+            "prime": [],
+            "num": 65
+        },
+        "66": {
+            "base": [],
+            "prime": [],
+            "num": 66
+        },
+        "67": {
+            "base": [],
+            "prime": [],
+            "num": 67
+        },
+        "68": {
+            "base": [],
+            "prime": [],
+            "num": 68
+        },
+        "69": {
+            "base": [],
+            "prime": [],
+            "num": 69
+        },
+        "70": {
+            "base": [],
+            "prime": [],
+            "num": 70
+        },
+        "71": {
+            "base": [],
+            "prime": [],
+            "num": 71
+        },
+        "72": {
+            "base": [],
+            "prime": [],
+            "num": 72
+        },
+        "73": {
+            "base": [],
+            "prime": [],
+            "num": 73
+        },
+        "74": {
+            "base": [],
+            "prime": [],
+            "num": 74
+        },
+        "75": {
+            "base": [],
+            "prime": [],
+            "num": 75
+        }
+    },
+    "agaricus p. 314": {
+        "1": {
+            "base": [],
+            "prime": [],
+            "num": 1
+        },
+        "2": {
+            "base": [],
+            "prime": [],
+            "num": 2
+        },
+        "3": {
+            "base": [],
+            "prime": [],
+            "num": 3
+        },
+        "4": {
+            "base": [],
+            "prime": [],
+            "num": 4
+        },
+        "5": {
+            "base": [],
+            "prime": [],
+            "num": 5
+        },
+        "6": {
+            "base": [],
+            "prime": [],
+            "num": 6
+        },
+        "7": {
+            "base": [],
+            "prime": [],
+            "num": 7
+        },
+        "8": {
+            "base": [],
+            "prime": [],
+            "num": 8
+        },
+        "9": {
+            "base": [],
+            "prime": [],
+            "num": 9
+        },
+        "10": {
+            "base": [],
+            "prime": [],
+            "num": 10
+        },
+        "11": {
+            "base": [],
+            "prime": [],
+            "num": 11
+        },
+        "12": {
+            "base": [],
+            "prime": [],
+            "num": 12
+        },
+        "13": {
+            "base": [],
+            "prime": [],
+            "num": 13
+        },
+        "14": {
+            "base": [],
+            "prime": [],
+            "num": 14
+        },
+        "15": {
+            "base": [],
+            "prime": [],
+            "num": 15
+        },
+        "16": {
+            "base": [],
+            "prime": [],
+            "num": 16
+        },
+        "17": {
+            "base": [],
+            "prime": [],
+            "num": 17
+        },
+        "18": {
+            "base": [],
+            "prime": [],
+            "num": 18
+        },
+        "19": {
+            "base": [],
+            "prime": [],
+            "num": 19
+        },
+        "20": {
+            "base": [],
+            "prime": [],
+            "num": 20
+        },
+        "21": {
+            "base": [],
+            "prime": [],
+            "num": 21
+        },
+        "22": {
+            "base": [],
+            "prime": [],
+            "num": 22
+        },
+        "23": {
+            "base": [],
+            "prime": [],
+            "num": 23
+        },
+        "24": {
+            "base": [],
+            "prime": [],
+            "num": 24
+        },
+        "25": {
+            "base": [],
+            "prime": [],
+            "num": 25
+        },
+        "26": {
+            "base": [],
+            "prime": [],
+            "num": 26
+        },
+        "27": {
+            "base": [],
+            "prime": [],
+            "num": 27
+        },
+        "28": {
+            "base": [],
+            "prime": [],
+            "num": 28
+        },
+        "29": {
+            "base": [],
+            "prime": [],
+            "num": 29
+        },
+        "30": {
+            "base": [],
+            "prime": [],
+            "num": 30
+        },
+        "31": {
+            "base": [],
+            "prime": [],
+            "num": 31
+        },
+        "32": {
+            "base": [],
+            "prime": [],
+            "num": 32
+        },
+        "33": {
+            "base": [],
+            "prime": [],
+            "num": 33
+        },
+        "34": {
+            "base": [],
+            "prime": [],
+            "num": 34
+        },
+        "35": {
+            "base": [],
+            "prime": [],
+            "num": 35
+        },
+        "36": {
+            "base": [],
+            "prime": [],
+            "num": 36
+        },
+        "37": {
+            "base": [],
+            "prime": [],
+            "num": 37
+        },
+        "38": {
+            "base": [],
+            "prime": [],
+            "num": 38
+        },
+        "39": {
+            "base": [],
+            "prime": [],
+            "num": 39
+        },
+        "40": {
+            "base": [],
+            "prime": [],
+            "num": 40
+        },
+        "41": {
+            "base": [],
+            "prime": [],
+            "num": 41
+        },
+        "42": {
+            "base": [],
+            "prime": [],
+            "num": 42
+        },
+        "43": {
+            "base": [],
+            "prime": [],
+            "num": 43
+        },
+        "44": {
+            "base": [],
+            "prime": [],
+            "num": 44
+        },
+        "45": {
+            "base": [],
+            "prime": [],
+            "num": 45
+        },
+        "46": {
+            "base": [],
+            "prime": [],
+            "num": 46
+        },
+        "47": {
+            "base": [],
+            "prime": [],
+            "num": 47
+        },
+        "48": {
+            "base": [],
+            "prime": [],
+            "num": 48
+        },
+        "49": {
+            "base": [],
+            "prime": [],
+            "num": 49
+        },
+        "50": {
+            "base": [],
+            "prime": [],
+            "num": 50
+        },
+        "51": {
+            "base": [],
+            "prime": [],
+            "num": 51
+        },
+        "52": {
+            "base": [],
+            "prime": [],
+            "num": 52
+        },
+        "53": {
+            "base": [],
+            "prime": [],
+            "num": 53
+        },
+        "54": {
+            "base": [],
+            "prime": [],
+            "num": 54
+        },
+        "55": {
+            "base": [],
+            "prime": [],
+            "num": 55
+        }
+    }
+}

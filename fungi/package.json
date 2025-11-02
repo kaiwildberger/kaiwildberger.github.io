@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "web-resource-inliner": "^8.0.0"
+  }
+}
