@@ -17,6 +17,8 @@ class Couplet {
 /// TODO
 // - backtrace doesn't work on non-unique species (Amanita muscaria) due to set flattening confusion
 // - make look better on mobile (larger?)
+// 
+// ref https://keycouncil.svims.club/council/
 
 function getKey() {
     fetch('./arora.json')
@@ -91,6 +93,7 @@ async function populateGenera() {
             // wholekey.innerHTML = wholeFinal
             startKeyFor(globalGenus)
         })
+    container.value = ""
     choiceArea.appendChild(container)
 }
 
