@@ -1084,75 +1084,75 @@
             "num": 53
         }
     },
-    "boletaceae p. 489": {
+    "boletaceae": {
         "1": {
-            "base": [],
-            "prime": [],
+            "base": ["Fruiting body often appearing aborted or misshapen and often buried or partially buried in the humus; tubes at least somewhat disoriented (ie not necessarily arranged vertically); spore print unobtainable; not common", "Gastroboletus"],
+            "prime": ["Not as above; tubes vertically arranged; spore print usually obtainable; usually found above the ground when mature", 2],
             "num": 1
         },
         "2": {
-            "base": [],
-            "prime": [],
+            "base": ["Cap and stalk shaggy or coarsely scaly, the scales gray to brown or black; pores whitish becoming gray and black in age; veil present when young; spore print dark brown to black; spores spiny, warty, or reticulate; found in eastern NA and Southwest", "Strobilomyces"],
+            "prime": ["Not as above", 3],
             "num": 2
         },
         "3": {
-            "base": [],
-            "prime": [],
+            "base": ["Stalk roughened by small tufted hairs or scales (scabers) which are usually gray to dark brown or black by maturity (but differently colored or remaining pallid in a few species); stalk not glandular-dotted and typically not reticulate; pores rarely yellow", "Leccinum"],
+            "prime": ["Not as above; stalk typically without scabers", 4],
             "num": 3
         },
         "4": {
-            "base": [],
-            "prime": [],
+            "base": ["Bright yellow, dry, cottony-powdery or cobwebby veil present when young, usually leaving cottony remnants on cap and/or stalk; pores and flesh usually blueing (sometimes slowly) when bruised", "Pulveroboletus"],
+            "prime": ["Veil absent, or if present then not as above"],
             "num": 4
         },
         "5": {
-            "base": [],
-            "prime": [],
+            "base": ["Veil present when young, sometimes forming an annulus ring on stalk, at other times clinging to the margin of the cap, and in still other cases disappearing in age", 9],
+            "prime": ["Veil absent (check young specimens if unsure), but cap sometimes fringed with sterile tissue", 6],
             "num": 5
         },
         "6": {
-            "base": [],
-            "prime": [],
+            "base": ["Stalk with glandular dots or smears at least when mature (the dots often slightly resinous to the touch); stalk usually more or less equal or at least not markedly bulbous; cap often (but not always) viscid; spore print olive to brown or dull cinnamon", "Suillus"],
+            "prime": ["Stalk not glandular-dotted (or very rarely so, but then with much darker spores)", 7],
             "num": 6
         },
         "7": {
-            "base": [],
-            "prime": [],
+            "base": ["Pores often radially elongated, sinuous, arranged in rows, and/or veined; tubes often (but not always) decurrent; taste of cap NOT peppery", 8],
+            "prime": ["Pores not as above, or if so then taste peppery", 10],
             "num": 7
         },
         "8": {
-            "base": [],
-            "prime": [],
+            "base": ["Veil absent when young; tube layer often difficult to separate from cap; stalk often short, curved, and/or off-center; spores broadly elliptical to nearly round; associated with hardwoods (mainly ash and alder); common in eastern NA, rare in the West", 14],
+            "prime": ["Not with above features; veil present or absent; spores elliptical to spindle-shaped; associated with conifers or less commonly hardwoods; widespread and common", 9],
             "num": 8
         },
         "9": {
-            "base": [],
-            "prime": [],
+            "base": ["Spore print dark grayish-brown to dark reddish-brown, chocolate-brown, or vinaceous-brown; veil typically present (at least when young) and glandular dots typically absent (rarely present); associated with larch and other norther conifers", "Fuscoboletinus"],
+            "prime": ["Spore print olive-brown to brown, yellowish, or dull cinnamon; veil present or absent; stalk glandular-dotted or not; found with many kinds of trees (including larch)", "Suillus"],
             "num": 9
         },
         "10": {
-            "base": [],
-            "prime": [],
+            "base": ["Cap viscid to very slimy when moist; stalk glandular-dotted or if not then stalk typically white to yellow and not reticulate; associated with conifers", "Suillus"],
+            "prime": ["Not with above features", 11],
             "num": 10
         },
         "11": {
-            "base": [],
-            "prime": [],
+            "base": ["Spore print flesh-colored to pinkish-brown, reddish-brown, vinaceous, or chocolate-brown; pores typically white to pinkish, vinaceous, gray or brown but not red and only rarely yellow (pores if pallid often but not always staining brown when bruised); common in eastern NA but rather infrequent in the West", "Tylopilus"],
+            "prime": ["Not as above; spore print yellow to yellow-brown, olive-brown, olive, brown, or more rarely cinnamon-brown; pores white, yellow, olive, red, orange, or sometimes gray or brown (but if pallid then not typically staining brown when bruised)", 12],
             "num": 11
         },
         "12": {
-            "base": [],
-            "prime": [],
+            "base": ["Spore print pale yellow to yellow; stalk often hollow or partially hollow at maturity (especially near the base); common in eastern NA, rare in the West", "Gyroporus"],
+            "prime": ["Spore print olive-brown to olive or brown, or occasionally yellow-brown or cinnamon-brown; stalk not normally hollow; common and widespread", 13],
             "num": 12
         },
         "13": {
-            "base": [],
-            "prime": [],
+            "base": ["Spores ornamented with ridges, grooves, pits, etc; stalk usually relatively long (7cm or more) and slender and COARSELY reticulate or conspicuously lined wiith jagged ridges for most of its length; pores yellow to greenish-yellow, not usually blueing when bruised; typically terrestrial; found in eastern NA and the Southwest", "Beletellus & Austroboletus"],
+            "prime": ["Not with above combination of features; spores typically smooth; widespread", "Boletus"],
             "num": 13
         },
         "14": {
-            "base": [],
-            "prime": [],
+            "base": ["Common under hardwoods (especially ash) in eastern North America; cap olive to dingy yellow-brown or brown; flesh not blueing or blueing only slightly; stalk often quite dark in old age, off-center or lateral", "Boletinellus (=Gyrodon) merulioides"],
+            "prime": ["Associated with alder; known from southern California (and Europe), apparently rare; cap yellowish to reddish-brown; flesh usually blueing when bruised", "Gyrodon lividus"],
             "num": 14
         }
     },
